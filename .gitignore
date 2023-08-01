@@ -1,5 +1,5 @@
 #Directory dependencies
 node_modules/
 
-#DotEnv envirement variables file
+#DotEnv enviroment variables file
 .env
